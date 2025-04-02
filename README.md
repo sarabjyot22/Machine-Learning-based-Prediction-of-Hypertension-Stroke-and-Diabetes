@@ -1,0 +1,1 @@
+# Machine-Learning-based-Prediction-of-Hypertension-stroke-and-Diabaties
